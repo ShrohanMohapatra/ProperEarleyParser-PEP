@@ -1,0 +1,5 @@
+G -> S
+S -> aSb
+S -> bSa
+S -> ab
+S -> ba
