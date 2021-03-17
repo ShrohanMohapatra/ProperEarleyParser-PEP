@@ -1,0 +1,7 @@
+G -> S
+S -> aSb
+S -> SS
+S -> SpS
+S -> ScS
+S -> Ss
+S -> x
