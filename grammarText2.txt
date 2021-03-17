@@ -1,0 +1,5 @@
+G -> S
+S -> aS
+S -> abT
+T -> bT
+T -> 
